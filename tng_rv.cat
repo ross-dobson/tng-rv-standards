@@ -8,14 +8,14 @@
 ! CHANGELOG:
 ! 2023-07-21 Initial version
 ! 2023-12-04 Added V, B-V, Radial Velocity from TNG. Added Proper Motion, Parallax, Spectral Type from SIMBAD
-! 2023-12-04 Corrected Spectral Types for HD 62613, 65583, 79210, 128165, 158633, 190007
+! 2023-12-05 Updated Spectral Types for HD 62613, 65583, 79210, 128165, 158633, 190007
 !            from Motalebi et al. 2015 A&A 584, A72 (2015) http://dx.doi.org/10.1051/0004-6361/201526822
 !
 ! Ross Dobson (rdobson@ing.iac.es) http://github.com/ross-dobson/tng-rv-standards
 !
 !===========================================================================================================================!
-! NAME   RA           DEC          EQUINOX PMRA       PMDEC     EPOCH PARALLAX  RADVEL ! COMMENTS
-! (UNIT) HH MM SS.SSS +DD MM SS.SS         SEC/YR     ARCSEC/YR       ARCSEC    KM/S   ! V    B-V  TYPE       NOTES
+! NAME   RA           DEC          EQUINOX PMRA       PMDEC     EPOCH PARALLAX  RADVEL  ! COMMENTS
+! (UNIT) HH MM SS.SSS +DD MM SS.SS         SEC/YR     ARCSEC/YR       ARCSEC    KM/S    ! V    B-V  TYPE      NOTES
 !
 HD3765   00 40 49.270 +40 11 13.82 J2000   0.03109474 -0.669205 2000  0.0558412  -63.30 ! 7.36 0.94 K2V
 HD10780  01 47 44.835 +63 51 09.00 J2000   0.08799725 -0.246462 2000  0.0995902    2.70 ! 5.63 0.80 K0V
