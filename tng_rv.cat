@@ -1,7 +1,7 @@
 !======================================= TNG Radial Velocity Standard Stars ================================================!
 !
 ! High-precision radial-velocity standard-stars catalog (Udry et al. 1999, ASPC 185, 367)
-! Data from the Telescopio Nazionali Galileo https://www.tng.iac.es/observing/standard_stars/radial_velocity/
+! Data from the Telescopio Nazionale Galileo https://www.tng.iac.es/observing/standard_stars/radial_velocity/
 ! Except for Proper Motions, Parallax, and Spectral Type from SIMBAD or Motalebi et al. 2015 (see changelog)
 ! Comments shows V, B-V, Spectral Type, and any other comments
 !
